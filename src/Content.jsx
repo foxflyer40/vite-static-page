@@ -14,6 +14,7 @@ import './App.css'
           <li>Ha well over 100K stars on Github</li>
           <li>Is maintained by Facebook</li>
           <li>Powers thousands of enterprise apps, including mobile apps</li>
+          <li>This site created with Vite and deployed on Netlify</li>
         </ul>
       </div>
 
